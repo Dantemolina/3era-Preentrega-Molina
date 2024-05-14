@@ -1,0 +1,9 @@
+{'nombre_usuario': 'Dante', 'apellido_usuario': 'Molina', 'contraseña': '1234', 'correo electrónico': 'molina@gmail.com'}
+{'nombre_usuario': 'dante', 'apellido_usuario': 'molina', 'contraseña': '123', 'correo electrónico': 'molina@gmail.com'}
+{'nombre_usuario': 'dante', 'apellido_usuario': 'molina', 'contraseña': '123', 'correo electrónico': 'molina@gmail.com'}
+{'nombre_usuario': 'dante', 'apellido_usuario': 'molina', 'contraseña': '123', 'correo electrónico': 'dante@gmail.com'}
+{'nombre_usuario': 'jeni', 'apellido_usuario': 'brito', 'contraseña': '121', 'correo electrónico': 'jeni@gmail.com'}
+{'nombre_usuario': 'dante', 'apellido_usuario': 'molina', 'contraseña': '1234', 'correo electrónico': 'dante@gmail.com'}
+{'nombre_usuario': 'dante', 'apellido_usuario': 'molina', 'contraseña': '123', 'correo electrónico': 'molina@gmail.com'}
+{'nombre_usuario': 'Dante', 'apellido_usuario': 'Molina', 'contraseña': '4567', 'correo electrónico': 'dmolina@gmail.com'}
+{'nombre_usuario': 'Dante', 'apellido_usuario': 'Molina', 'contraseña': '123', 'correo electrónico': 'molina@gmail.com'}
